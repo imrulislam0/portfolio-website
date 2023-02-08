@@ -83,6 +83,40 @@ ul span{
     font-size: 25px;
 }
 
+/* Goal Section */
+
+.goals-section{
+    text-align: center;
+    margin-top: 150px;
+    
+    
+}
+
+.goals-title{
+    font-size: 40px;
+    padding-bottom: 70px;
+}
+
+.to-do-section{
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    
+}
+
+.works h5{
+    font-size: 20px;
+   color: black;
+   padding: 10px;
+}
+.works h6{
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+/* Positive Mindset Styles */
+
+
 
 
 
