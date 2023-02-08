@@ -49,16 +49,42 @@ main{
     max-width: 1150px;
     margin: 0 auto;
 }
-    
-   
-    
-    
+/* Failure Section */
+
+.faliure-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.img-container{
+    margin-top: 150px;
+}
+.text-container{
+    padding-left: 150px;
+}
+
+.text-title{
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+
+.text-description{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+.items{
+    list-style: none;
+    font-size: 16px;
+}
+
+ul span{
+    color: #0af30a;
+    font-size: 25px;
+}
 
 
-    
-    
-    
 
-    
-    
+
+
 
